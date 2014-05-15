@@ -1,4 +1,1 @@
-RoslynList
-==========
-
-List of all roslyn-related online tools
+See [the wiki](https://github.com/ashmind/RoslynList/wiki).
